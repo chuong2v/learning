@@ -1,0 +1,23 @@
+{
+  "name": "express-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/chuong2v/learning.git"
+  },
+  "keywords": [
+    "nodejs",
+    "graphql"
+  ],
+  "author": "chuong2v",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chuong2v/learning/issues"
+  },
+  "homepage": "https://github.com/chuong2v/learning#readme"
+}
